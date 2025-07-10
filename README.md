@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Ofunne, and I'm a final-year Modern Languages student at the University of Warwick.<br><br>I started learning to code during my semester abroad in Shenzhen, China.<br><br>Recently, I completed [Code First Girls'](https://codefirstgirls.com) JavaScript and Python Coding Kickstarters.<br><br>After completing the JavaScript Kickstarter, I started working on my first project, a budget tracker web app which I called [Ofi](github.com/ofunne/ofi). I used PHP/mySQL, JavaScript and HTML/CSS.<br><br>I'm currently working on more projects. Follow my page to stay updated!
+My name is Ofunne, and I'm a final-year Modern Languages student at the University of Warwick.<br><br>I started learning to code during my semester abroad in Shenzhen, China.<br><br>Recently, I completed [Code First Girls'](https://codefirstgirls.com) JavaScript and Python Coding Kickstarters.<br><br>After completing the JavaScript Kickstarter, I started working on my first project, a budget tracker web app which I called Ofi (which is also the name of the repository you can find it in). I used PHP/mySQL, JavaScript and HTML/CSS.<br><br>I'm currently working on more projects. Follow my page to stay updated!
 
 
 ## 🌐 Socials:
